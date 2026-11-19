@@ -1,26 +1,26 @@
 # networking-fundamentals
-This repository documents my journey learning computer networking.
+## This repository documents my journey learning computer networking.
 
-Topics
+## Topics
 
-IPv4 addressing and subnetting
+- IPv4 addressing and subnetting
 
-ARP and MAC addresses
+- ARP and MAC addresses
 
-DNS and DHCP
+- DNS and DHCP
 
-TCP and UDP
+- TCP and UDP
 
-Common network ports
+- Common network ports
 
-Practical Work
+- Practical Work
 
-Windows networking commands
+- Windows networking commands
 
-Network configuration analysis
+- Network configuration analysis
 
-Cisco Packet Tracer exercises
+- Cisco Packet Tracer exercises
 
-Purpose
+# Purpose
 
-To develop a solid foundation in networking as part of my journey towards IT systems administration and cloud infrastructure.
+# To develop a solid foundation in networking as part of my journey towards IT systems administration and cloud infrastructure.
