@@ -1,7 +1,7 @@
 # networking-fundamentals
 This repository documents my journey learning computer networking.
 
-# Topics
+## Topics
 
 - IPv4 addressing and subnetting
 
@@ -21,6 +21,6 @@ This repository documents my journey learning computer networking.
 
 - Cisco Packet Tracer exercises
 
-# Purpose
+## Purpose
 
 - To develop a solid foundation in networking as part of my journey towards IT systems administration and cloud infrastructure.
