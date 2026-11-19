@@ -1,7 +1,7 @@
 # networking-fundamentals
-## This repository documents my journey learning computer networking.
+This repository documents my journey learning computer networking.
 
-## Topics
+# Topics
 
 - IPv4 addressing and subnetting
 
