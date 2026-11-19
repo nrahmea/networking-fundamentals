@@ -31,5 +31,3 @@ This repository contains notes, explanations and practical exercises covering fu
 ---
 
 *Learning • Practising • Documenting*
-
-*Learning • Practising • Documenting*
