@@ -1,3 +1,4 @@
+
 # Networking Fundamentals
 
 A learning repository documenting my journey into networking, IT infrastructure and system administration.
@@ -28,5 +29,7 @@ This repository contains notes, explanations and practical exercises covering fu
 - Prepare for further learning in Linux, servers and cloud computing
 
 ---
+
+*Learning • Practising • Documenting*
 
 *Learning • Practising • Documenting*
