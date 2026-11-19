@@ -23,4 +23,4 @@
 
 # Purpose
 
-# To develop a solid foundation in networking as part of my journey towards IT systems administration and cloud infrastructure.
+- To develop a solid foundation in networking as part of my journey towards IT systems administration and cloud infrastructure.
